@@ -4,7 +4,7 @@ description: Describes the core functions of Microsoft Teams apps
 keywords: apps concepts teams overview
 msdate: 03/29/2018
 ---
-# Concepts
+# Create
 
 Learn about creating Teams apps, and find everything you need to know about the building blocks of a Teams app: tabs, bots, connectors, messaging extensions, and more.
 
@@ -15,8 +15,8 @@ In these topics, you'll find the information you need to bring your apps to life
 |   |   |
 | - | - |
 | [**Apps for Teams**](~/concepts/apps/apps-overview) |  Understand how apps work in Teams and what features make up an app. |
-| [**Tabs**](~/concepts/tabs/tabs-overview) | Learn more about creating Tabs for Teams apps. |
 | [**Bots**](~/concepts/bots/bots-overview) | Use the Teams extensions for Microsoft bot framework to create interactive conversational bots.|
+| [**Tabs**](~/concepts/tabs/tabs-overview) | Learn more about creating Tabs for Teams apps. |
 | [**Cards**](~/concepts/cards/cards) | How to use cards in bots, connectors and messaging extensions.|
 | [**Authentication**](~/concepts/authentication) | Learn how authentication and authorization work in Teams. |
 | [**Activity feed**](~/concepts/activity-feed) | The activity feed is the user's single inbox for all activity across Teams. The feed aggregates important content from many sources. |
