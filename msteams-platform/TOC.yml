@@ -19,7 +19,7 @@
     - name: Publish to Azure
       href: ./get-started/get-started-dotnet-in-azure
   expanded: true
-- name: Concepts
+- name: Create
   href: ./concepts/concepts-overview
   items:
   - name: Apps for Teams
@@ -106,20 +106,13 @@
     href: ./concepts/outgoingwebhook
   - name: Deep links
     href: ./concepts/deep-links
-- name: Publishing
+- name: Publish
   href: ./publishing/apps-publish
   items:
   - name: AppSource checklist
     href: ./publishing/office-store-checklist
   - name: AppSource guidance
     href: ./publishing/office-store-guidance
-- name: Scenarios
-  href: ./scenarios/scenarios
-  items:
-  - name: 1-on-1 conversations with bots
-    href: ./concepts/bots/bot-conversations/bots-conv-personal
-  - name: Channel conversations with bots
-    href: ./concepts/bots/bot-conversations/bots-conv-channel
 - name: Resources
   href: ./resources/resource-overview
   items:
